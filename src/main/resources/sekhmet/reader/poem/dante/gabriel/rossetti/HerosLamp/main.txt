@@ -1,0 +1,32 @@
+# Time in seconds between prompts [ number ]
+delay.prompt = 0
+# Time in seconds after preamble [ number ]
+delay.preamble = 0
+#delay.preamble = 2
+# [yes | no]
+delay.start = no
+# [yes | no]
+delay.end = no
+# License for prompt text [ CC0 | GPL | CC-PD3]
+license = CC-PD3
+# Name of the author [ text ]
+author = Dante Gabriel Rossetti
+# Author, Date of Birth [year]
+author.dob=1828
+# Author, Date of Dead [year]
+author.dod=1882
+# Book containing work [text]
+source=The House of Life
+# Duplicate entries should be removed [ yes | no ]
+remove_duplicates = no
+# Description [ text ]
+description= Hero's Lamp By Dante Gabriel Rossetti
+# Number of words to choose [ number ]
+#repeat=0
+repeat=0
+# Whether selection should be random [ random | seq ] 
+selection=seq
+# Whether text should be single spaced [single]
+space=single
+# Whether test has been preformatted with whitespace [yes | no]
+preformatted = yes

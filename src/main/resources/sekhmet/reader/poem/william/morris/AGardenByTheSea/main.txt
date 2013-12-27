@@ -1,0 +1,32 @@
+# Time in seconds between prompts [ number ]
+delay.prompt = 0
+# Time in seconds after preamble [ number ]
+delay.preamble = 0
+#delay.preamble = 2
+# [yes | no]
+delay.start = no
+# [yes | no]
+delay.end = no
+# License for prompt text [ CC0 | GPL | CC-PD3]
+license = CC-PD3
+# Name of the author [ text ]
+author = William Morris
+# Author, Date of Birth [year]
+author.dob=1843
+# Author, Date of Dead [year]
+author.dod=1896
+# Book containing work [text]
+source=Poems By The Way & Love Is Enough
+# Duplicate entries should be removed [ yes | no ]
+remove_duplicates = no
+# Description [ text ]
+description= A Garden By The Sea By William Morris
+# Number of words to choose [ number ]
+#repeat=0
+repeat=0
+# Whether selection should be random [ random | seq ] 
+selection=seq
+# Whether text should be single spaced [single]
+space=single
+# Whether test has been preformatted with whitespace [yes | no]
+preformatted = yes
